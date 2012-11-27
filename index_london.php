@@ -1,6 +1,5 @@
 <?php
 /* ====================== INFO ========================
-Developer Email: newrooky@gmail.com
 Frame: 							340 x 510
 Instagram size:				306 x 306
 Footer Picture size:	  	340x140
